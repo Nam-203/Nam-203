@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <rect width="45" height="45" x="1.5" y="1.5" rx="10" fill="#ffffff" stroke="#e2e8f0" stroke-width="1.5" />
+  <g transform="translate(10, 10)">
+    <svg width="28" height="28" viewBox="0 0 24 24">
+      <title>Framer</title><path d="M4 0h16v8h-8zM4 8h8l8 8H4zM4 16h8v8z"/>
+    </svg>
+  </g>
+</svg>

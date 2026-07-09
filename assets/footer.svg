@@ -1,0 +1,267 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 900 120"
+     width="100%"
+     height="120">
+
+<defs>
+
+<!-- ================= BACKGROUND ================= -->
+
+<linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#2a3a4a"/>
+    <stop offset="25%" stop-color="#4a5a6a"/>
+    <stop offset="45%" stop-color="#d4c8c0"/>
+    <stop offset="50%" stop-color="#f0e8e0"/>
+    <stop offset="55%" stop-color="#d4c8c0"/>
+    <stop offset="75%" stop-color="#4a5a6a"/>
+    <stop offset="100%" stop-color="#2a3a4a"/>
+</linearGradient>
+
+<linearGradient id="wave1" x1="0" y1="0" x2="1" y2=".2">
+    <stop offset="0%" stop-color="#1f3142" stop-opacity=".9"/>
+    <stop offset="50%" stop-color="#50667c" stop-opacity=".6"/>
+    <stop offset="100%" stop-color="#1f3142" stop-opacity=".9"/>
+</linearGradient>
+
+<linearGradient id="wave2" x1="0" y1="0" x2="1" y2=".2">
+    <stop offset="0%" stop-color="#39516a" stop-opacity=".55"/>
+    <stop offset="100%" stop-color="#39516a" stop-opacity=".2"/>
+</linearGradient>
+
+<radialGradient id="sunGlow" cx=".5" cy="1" r=".45">
+    <stop offset="0%" stop-color="#fff5e6" stop-opacity=".55"/>
+    <stop offset="100%" stop-color="#fff5e6" stop-opacity="0"/>
+</radialGradient>
+
+<filter id="textGlow">
+    <feGaussianBlur stdDeviation="2" result="blur"/>
+    <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+</filter>
+
+<filter id="particleGlow">
+    <feGaussianBlur stdDeviation="1.2"/>
+</filter>
+
+<linearGradient id="textGrad">
+    <stop offset="0%" stop-color="#182739"/>
+    <stop offset="50%" stop-color="#1a1a2e"/>
+    <stop offset="100%" stop-color="#182739"/>
+</linearGradient>
+
+</defs>
+
+<!-- ================= BACKGROUND ================= -->
+
+<rect width="900" height="120" fill="url(#bgGrad)"/>
+
+<!-- center glow -->
+
+<ellipse
+cx="450"
+cy="120"
+rx="220"
+ry="60"
+fill="url(#sunGlow)">
+
+<animate
+attributeName="rx"
+values="220;245;220"
+dur="10s"
+repeatCount="indefinite"/>
+
+<animate
+attributeName="ry"
+values="60;66;60"
+dur="10s"
+repeatCount="indefinite"/>
+
+<animate
+attributeName="opacity"
+values=".35;.7;.35"
+dur="10s"
+repeatCount="indefinite"/>
+
+</ellipse>
+
+<!-- ================= WAVES ================= -->
+<path
+d="M0 68
+C80 40 180 95 310 60
+C420 30 520 95 640 55
+C760 15 840 90 900 60
+L900 120
+L0 120Z"
+fill="#ffffff"
+opacity=".05">
+
+    <animateTransform
+        attributeName="transform"
+        type="translate"
+        values="-35 0;35 0;-35 0"
+        dur="26s"
+        repeatCount="indefinite"/>
+
+</path>
+<path
+d="M0 78
+C120 40 240 110 380 70
+C500 35 610 110 740 70
+C820 45 860 90 900 72
+L900 120
+L0 120Z"
+fill="url(#wave2)"
+opacity=".45">
+
+    <animateTransform
+        attributeName="transform"
+        type="translate"
+        values="28 0;-28 0;28 0"
+        dur="18s"
+        repeatCount="indefinite"/>
+
+</path>
+
+<path
+d="M0 105
+C90 88 180 118 300 100
+C430 80 560 118 700 96
+C790 86 850 110 900 100
+L900 120
+L0 120Z"
+fill="#1f3142"
+opacity=".92">
+
+    <animateTransform
+        attributeName="transform"
+        type="translate"
+        values="12 0;-12 0;12 0"
+        dur="9s"
+        repeatCount="indefinite"/>
+
+</path>
+<!-- reflection -->
+
+<path
+d="M150 82
+C300 70 600 70 760 82"
+stroke="#fff"
+stroke-width="1.5"
+opacity=".12"
+fill="none">
+
+<animate
+attributeName="opacity"
+values=".05;.22;.05"
+dur="6s"
+repeatCount="indefinite"/>
+
+</path>
+
+<!-- ================= LIGHT SWEEP ================= -->
+
+<rect
+x="-300"
+y="0"
+width="180"
+height="120"
+fill="white"
+opacity=".05"
+transform="rotate(-18)">
+
+<animate
+attributeName="x"
+values="-300;1200"
+dur="9s"
+repeatCount="indefinite"/>
+
+</rect>
+
+<!-- ================= PARTICLES ================= -->
+
+<g filter="url(#particleGlow)">
+
+<circle cx="90" cy="35" r="1.6" fill="white">
+<animate attributeName="cy" values="35;28;35" dur="5s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values=".2;1;.2" dur="4s" repeatCount="indefinite"/>
+</circle>
+
+<circle cx="180" cy="55" r="2" fill="white">
+<animate attributeName="cy" values="55;45;55" dur="6s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values=".2;1;.2" dur="5s" repeatCount="indefinite"/>
+</circle>
+
+<circle cx="320" cy="30" r="1.4" fill="white">
+<animate attributeName="cy" values="30;20;30" dur="5.5s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values=".2;1;.2" dur="4.5s" repeatCount="indefinite"/>
+</circle>
+
+<circle cx="450" cy="48" r="2.2" fill="white">
+<animate attributeName="cy" values="48;36;48" dur="6.5s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values=".2;1;.2" dur="5.2s" repeatCount="indefinite"/>
+</circle>
+
+<circle cx="560" cy="28" r="1.5" fill="white">
+<animate attributeName="cy" values="28;18;28" dur="5s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values=".2;1;.2" dur="4.5s" repeatCount="indefinite"/>
+</circle>
+
+<circle cx="680" cy="42" r="2" fill="white">
+<animate attributeName="cy" values="42;30;42" dur="6.2s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values=".2;1;.2" dur="5.3s" repeatCount="indefinite"/>
+</circle>
+
+<circle cx="820" cy="34" r="1.8" fill="white">
+<animate attributeName="cy" values="34;24;34" dur="5.7s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values=".2;1;.2" dur="4.7s" repeatCount="indefinite"/>
+</circle>
+
+</g>
+
+<!-- ================= TEXT ================= -->
+
+<g
+transform="translate(450,63)"
+text-anchor="middle"
+filter="url(#textGlow)">
+
+<text
+font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif"
+font-size="20"
+font-weight="900"
+letter-spacing="4"
+fill="url(#textGrad)">
+
+THANKS FOR VISITING!
+
+<animate
+attributeName="opacity"
+values=".85;1;.85"
+dur="4s"
+repeatCount="indefinite"/>
+
+</text>
+
+<text
+y="28"
+font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif"
+font-size="11"
+font-weight="600"
+letter-spacing="2"
+fill="#505868">
+
+BUILDING THE FUTURE • ONE COMMIT AT A TIME
+
+<animate
+attributeName="opacity"
+values=".55;.9;.55"
+dur="5s"
+repeatCount="indefinite"/>
+
+</text>
+
+</g>
+
+</svg>
