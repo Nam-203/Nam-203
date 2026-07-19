@@ -479,15 +479,15 @@ A collection of AI prototypes focused on:
 <div align="center">
 
 <!-- DYNAMIC_QUOTE_START -->
-> "The only way to do great work is to love what you do."
+> "Make it simple, but significant."
 >
-> *— Steve Jobs*
+> *— Don Draper*
 <!-- DYNAMIC_QUOTE_END -->
 
 <br/>
 
 <!-- LAST_UPDATED_START -->
-📅 *Last updated: July 18, 2026 at 02:23:43*
+📅 *Last updated: July 19, 2026 at 02:35:52*
 <!-- LAST_UPDATED_END -->
 
 </div>
