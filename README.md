@@ -479,15 +479,15 @@ A collection of AI prototypes focused on:
 <div align="center">
 
 <!-- DYNAMIC_QUOTE_START -->
-> "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."
+> "The best way to predict the future is to invent it."
 >
-> *— Martin Fowler*
+> *— Alan Kay*
 <!-- DYNAMIC_QUOTE_END -->
 
 <br/>
 
 <!-- LAST_UPDATED_START -->
-📅 *Last updated: July 26, 2026 at 02:40:17*
+📅 *Last updated: July 27, 2026 at 02:48:52*
 <!-- LAST_UPDATED_END -->
 
 </div>
