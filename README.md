@@ -479,15 +479,15 @@ A collection of AI prototypes focused on:
 <div align="center">
 
 <!-- DYNAMIC_QUOTE_START -->
-> "The best way to predict the future is to invent it."
+> "The only way to do great work is to love what you do."
 >
-> *— Alan Kay*
+> *— Steve Jobs*
 <!-- DYNAMIC_QUOTE_END -->
 
 <br/>
 
 <!-- LAST_UPDATED_START -->
-📅 *Last updated: July 27, 2026 at 02:48:52*
+📅 *Last updated: July 28, 2026 at 02:27:03*
 <!-- LAST_UPDATED_END -->
 
 </div>
