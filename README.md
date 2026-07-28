@@ -64,39 +64,43 @@ Currently working on:
 
 ### 💻 Programming Languages
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=light" width="48" height="48" alt="JavaScript" /></a> <a href="https://www.typescriptlang.org" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts&theme=light" width="48" height="48" alt="TypeScript" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5"><img src="https://skillicons.dev/icons?i=html&theme=light" width="48" height="48" alt="HTML5" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3"><img src="https://skillicons.dev/icons?i=css&theme=light" width="48" height="48" alt="CSS3" /></a> <a href="https://sass-lang.com" title="Sass"><img src="https://skillicons.dev/icons?i=sass&theme=light" width="48" height="48" alt="Sass" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,ts,html,css,sass&theme=light" alt="Programming Languages" /></a>
 
 ### 🎨 Frontend
 
-<a href="https://react.dev" title="React"><img src="https://skillicons.dev/icons?i=react&theme=light" width="48" height="48" alt="React" /></a> <a href="https://nextjs.org" title="Next.js"><img src="https://skillicons.dev/icons?i=nextjs&theme=light" width="48" height="48" alt="Next.js" /></a> <a href="https://redux.js.org" title="Redux"><img src="https://skillicons.dev/icons?i=redux&theme=light" width="48" height="48" alt="Redux" /></a> <a href="https://tailwindcss.com" title="Tailwind CSS"><img src="https://skillicons.dev/icons?i=tailwind&theme=light" width="48" height="48" alt="Tailwind CSS" /></a> <a href="https://jestjs.io" title="Jest"><img src="https://skillicons.dev/icons?i=jest&theme=light" width="48" height="48" alt="Jest" /></a> <a href="https://vitest.dev" title="Vitest"><img src="https://skillicons.dev/icons?i=vite&theme=light" width="48" height="48" alt="Vitest" /></a> <a href="https://reactnative.dev" title="React Native"><img src="assets/reactnative.svg" width="48" height="48" alt="React Native" /></a> <a href="https://redux-toolkit.js.org" title="Redux Toolkit"><img src="assets/reduxtoolkit.svg" width="48" height="48" alt="Redux Toolkit" /></a> <a href="https://redux-saga.js.org" title="Redux Saga"><img src="assets/reduxsaga.svg" width="48" height="48" alt="Redux Saga" /></a> <a href="https://swr.vercel.app" title="SWR"><img src="assets/swr.svg" width="48" height="48" alt="SWR" /></a> <a href="https://zustand-demo.pmnd.rs" title="Zustand"><img src="assets/zustand.svg" width="48" height="48" alt="Zustand" /></a> <a href="https://reactflow.dev" title="React Flow"><img src="assets/reactflow.svg" width="48" height="48" alt="React Flow" /></a> <a href="https://atlassian.design/components/pragmatic-drag-and-drop" title="Pragmatic Drag and Drop"><img src="assets/pragmaticdrag.svg" width="48" height="48" alt="Pragmatic Drag and Drop" /></a> <a href="https://framer.com/motion" title="Framer Motion"><img src="assets/framermotion.svg" width="48" height="48" alt="Framer Motion" /></a> <a href="https://greensock.com/gsap" title="GSAP Animation"><img src="assets/gsap.svg" width="48" height="48" alt="GSAP" /></a> <a href="https://react-hook-form.com" title="React Hook Form"><img src="assets/reacthookform.svg" width="48" height="48" alt="React Hook Form" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,jest,vite&theme=light" alt="Frontend Frameworks" /></a>
+<br /><br />
+<a href="https://reactnative.dev" title="React Native"><img src="assets/reactnative.svg" width="48" height="48" alt="React Native" /></a> <a href="https://redux-toolkit.js.org" title="Redux Toolkit"><img src="assets/reduxtoolkit.svg" width="48" height="48" alt="Redux Toolkit" /></a> <a href="https://redux-saga.js.org" title="Redux Saga"><img src="assets/reduxsaga.svg" width="48" height="48" alt="Redux Saga" /></a> <a href="https://swr.vercel.app" title="SWR"><img src="assets/swr.svg" width="48" height="48" alt="SWR" /></a> <a href="https://zustand-demo.pmnd.rs" title="Zustand"><img src="assets/zustand.svg" width="48" height="48" alt="Zustand" /></a>
+<br />
+<a href="https://reactflow.dev" title="React Flow"><img src="assets/reactflow.svg" width="48" height="48" alt="React Flow" /></a> <a href="https://atlassian.design/components/pragmatic-drag-and-drop" title="Pragmatic Drag and Drop"><img src="assets/pragmaticdrag.svg" width="48" height="48" alt="Pragmatic Drag and Drop" /></a> <a href="https://framer.com/motion" title="Framer Motion"><img src="assets/framermotion.svg" width="48" height="48" alt="Framer Motion" /></a> <a href="https://greensock.com/gsap" title="GSAP Animation"><img src="assets/gsap.svg" width="48" height="48" alt="GSAP" /></a> <a href="https://react-hook-form.com" title="React Hook Form"><img src="assets/reacthookform.svg" width="48" height="48" alt="React Hook Form" /></a>
 
 <sub><strong>Featured Tooling:</strong> React Native, Redux Toolkit, Redux Saga, SWR, Zustand, React Flow, Pragmatic Drag & Drop, Framer Motion, React Hook Form, GSAP, Zod</sub>
 
 ### ⚙️ Backend
 
-<a href="https://nodejs.org" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs&theme=light" width="48" height="48" alt="Node.js" /></a> <a href="https://nestjs.com" title="NestJS"><img src="https://skillicons.dev/icons?i=nestjs&theme=light" width="48" height="48" alt="NestJS" /></a> <a href="https://expressjs.com" title="Express.js"><img src="https://skillicons.dev/icons?i=express&theme=light" width="48" height="48" alt="Express.js" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,nestjs,express&theme=light" alt="Backend" /></a>
 
 <sub><strong>Core Concepts:</strong> REST API, WebSockets</sub>
 
 ### 🗄️ Databases
 
-<a href="https://www.postgresql.org" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres&theme=light" width="48" height="48" alt="PostgreSQL" /></a> <a href="https://www.mysql.com" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql&theme=light" width="48" height="48" alt="MySQL" /></a> <a href="https://www.mongodb.com" title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb&theme=light" width="48" height="48" alt="MongoDB" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=light" alt="Databases" /></a>
 
 ### 🏗️ Architecture & Messaging
 
-<a href="https://redis.io" title="Redis"><img src="https://skillicons.dev/icons?i=redis&theme=light" width="48" height="48" alt="Redis" /></a> <a href="https://kafka.apache.org" title="Kafka"><img src="https://skillicons.dev/icons?i=kafka&theme=light" width="48" height="48" alt="Kafka" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=redis,kafka&theme=light" alt="Architecture & Messaging" /></a>
 
 <sub><strong>Concepts & Patterns:</strong> Caching, Bull Queue, Microservices, Event-driven Architecture, Monorepo</sub>
 
 ### ☁️ DevOps & Cloud
 
-<a href="https://git-scm.com" title="Git"><img src="https://skillicons.dev/icons?i=git&theme=light" width="48" height="48" alt="Git" /></a> <a href="https://www.docker.com" title="Docker"><img src="https://skillicons.dev/icons?i=docker&theme=light" width="48" height="48" alt="Docker" /></a> <a href="https://www.jenkins.io" title="Jenkins"><img src="https://skillicons.dev/icons?i=jenkins&theme=light" width="48" height="48" alt="Jenkins" /></a> <a href="https://github.com/features/actions" title="GitHub Actions"><img src="https://skillicons.dev/icons?i=githubactions&theme=light" width="48" height="48" alt="GitHub Actions" /></a> <a href="https://about.gitlab.com" title="GitLab CI"><img src="https://skillicons.dev/icons?i=gitlab&theme=light" width="48" height="48" alt="GitLab CI" /></a> <a href="https://www.terraform.io" title="Terraform"><img src="https://skillicons.dev/icons?i=terraform&theme=light" width="48" height="48" alt="Terraform" /></a> <a href="https://kubernetes.io" title="Kubernetes"><img src="https://skillicons.dev/icons?i=kubernetes&theme=light" width="48" height="48" alt="Kubernetes" /></a> <a href="https://aws.amazon.com" title="AWS"><img src="https://skillicons.dev/icons?i=aws&theme=light" width="48" height="48" alt="AWS" /></a> <a href="https://azure.microsoft.com" title="Azure"><img src="https://skillicons.dev/icons?i=azure&theme=light" width="48" height="48" alt="Azure" /></a> <a href="https://vercel.com" title="Vercel"><img src="https://skillicons.dev/icons?i=vercel&theme=light" width="48" height="48" alt="Vercel" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,docker,jenkins,githubactions,gitlab,terraform,kubernetes,aws,azure,vercel&theme=light" alt="DevOps & Cloud" /></a>
 
 <sub><strong>AWS Suite:</strong> EC2, Lambda, VPC, IAM, RDS | <strong>CI/CD & Tools:</strong> GitLab CI, GitHub Actions, Jenkins (Basic), Terraform (Basic), Kubernetes (Basic)</sub>
 
 ### 🤖 Methodologies & Developer Tools AI
 
-<a href="https://figma.com" title="Figma"><img src="https://skillicons.dev/icons?i=figma&theme=light" width="48" height="48" alt="Figma" /></a> <a href="https://code.visualstudio.com" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode&theme=light" width="48" height="48" alt="VS Code" /></a> <a href="https://github.com" title="GitHub"><img src="https://skillicons.dev/icons?i=github&theme=light" width="48" height="48" alt="GitHub" /></a> <a href="https://gitlab.com" title="GitLab"><img src="https://skillicons.dev/icons?i=gitlab&theme=light" width="48" height="48" alt="GitLab" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma,vscode,github,gitlab&theme=light" alt="Developer Tools & AI" /></a>
 <br />
 <sub><strong>AI Tools:</strong> Cursor, Claude Code, Antigravity | <strong>Methodologies:</strong> Agile Scrum</sub>
 
