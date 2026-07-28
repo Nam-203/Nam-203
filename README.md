@@ -69,10 +69,9 @@ Currently working on:
 ### 🎨 Frontend
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,jest,vite&theme=light" alt="Frontend Frameworks" /></a>
-<br /><br />
-<a href="https://reactnative.dev" title="React Native"><img src="assets/reactnative.svg" width="48" height="48" alt="React Native" /></a> <a href="https://redux-toolkit.js.org" title="Redux Toolkit"><img src="assets/reduxtoolkit.svg" width="48" height="48" alt="Redux Toolkit" /></a> <a href="https://redux-saga.js.org" title="Redux Saga"><img src="assets/reduxsaga.svg" width="48" height="48" alt="Redux Saga" /></a> <a href="https://swr.vercel.app" title="SWR"><img src="assets/swr.svg" width="48" height="48" alt="SWR" /></a> <a href="https://zustand-demo.pmnd.rs" title="Zustand"><img src="assets/zustand.svg" width="48" height="48" alt="Zustand" /></a>
-<br />
-<a href="https://reactflow.dev" title="React Flow"><img src="assets/reactflow.svg" width="48" height="48" alt="React Flow" /></a> <a href="https://atlassian.design/components/pragmatic-drag-and-drop" title="Pragmatic Drag and Drop"><img src="assets/pragmaticdrag.svg" width="48" height="48" alt="Pragmatic Drag and Drop" /></a> <a href="https://framer.com/motion" title="Framer Motion"><img src="assets/framermotion.svg" width="48" height="48" alt="Framer Motion" /></a> <a href="https://greensock.com/gsap" title="GSAP Animation"><img src="assets/gsap.svg" width="48" height="48" alt="GSAP" /></a> <a href="https://react-hook-form.com" title="React Hook Form"><img src="assets/reacthookform.svg" width="48" height="48" alt="React Hook Form" /></a>
+[![React Native](assets/reactnative.svg)](https://reactnative.dev) [![Redux Toolkit](assets/reduxtoolkit.svg)](https://redux-toolkit.js.org) [![Redux Saga](assets/reduxsaga.svg)](https://redux-saga.js.org) [![SWR](assets/swr.svg)](https://swr.vercel.app) [![Zustand](assets/zustand.svg)](https://zustand-demo.pmnd.rs)
+
+[![React Flow](assets/reactflow.svg)](https://reactflow.dev) [![Pragmatic Drag](assets/pragmaticdrag.svg)](https://atlassian.design/components/pragmatic-drag-and-drop) [![Framer Motion](assets/framermotion.svg)](https://framer.com/motion) [![GSAP](assets/gsap.svg)](https://greensock.com/gsap) [![React Hook Form](assets/reacthookform.svg)](https://react-hook-form.com)
 
 <sub><strong>Featured Tooling:</strong> React Native, Redux Toolkit, Redux Saga, SWR, Zustand, React Flow, Pragmatic Drag & Drop, Framer Motion, React Hook Form, GSAP, Zod</sub>
 
