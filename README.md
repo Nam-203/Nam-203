@@ -349,15 +349,15 @@ A collection of AI prototypes focused on:
 <div align="center">
 
 <!-- DYNAMIC_QUOTE_START -->
-> "Simplicity is the ultimate sophistication."
+> "Design is not just what it looks like and feels like. Design is how it works."
 >
-> *— Leonardo da Vinci*
+> *— Steve Jobs*
 <!-- DYNAMIC_QUOTE_END -->
 
 <br/>
 
 <!-- LAST_UPDATED_START -->
-📅 *Last updated: August 12, 2026 at 01:49:34*
+📅 *Last updated: August 13, 2026 at 01:51:35*
 <!-- LAST_UPDATED_END -->
 
 </div>
