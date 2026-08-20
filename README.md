@@ -349,15 +349,15 @@ A collection of AI prototypes focused on:
 <div align="center">
 
 <!-- DYNAMIC_QUOTE_START -->
-> "First, solve the problem. Then, write the code."
+> "Design is not just what it looks like and feels like. Design is how it works."
 >
-> *— John Johnson*
+> *— Steve Jobs*
 <!-- DYNAMIC_QUOTE_END -->
 
 <br/>
 
 <!-- LAST_UPDATED_START -->
-📅 *Last updated: August 19, 2026 at 01:09:11*
+📅 *Last updated: August 20, 2026 at 01:08:15*
 <!-- LAST_UPDATED_END -->
 
 </div>
