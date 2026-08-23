@@ -349,15 +349,15 @@ A collection of AI prototypes focused on:
 <div align="center">
 
 <!-- DYNAMIC_QUOTE_START -->
-> "The only way to do great work is to love what you do."
+> "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."
 >
-> *— Steve Jobs*
+> *— Martin Fowler*
 <!-- DYNAMIC_QUOTE_END -->
 
 <br/>
 
 <!-- LAST_UPDATED_START -->
-📅 *Last updated: August 22, 2026 at 01:08:23*
+📅 *Last updated: August 23, 2026 at 01:13:54*
 <!-- LAST_UPDATED_END -->
 
 </div>
