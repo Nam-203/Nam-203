@@ -349,15 +349,15 @@ A collection of AI prototypes focused on:
 <div align="center">
 
 <!-- DYNAMIC_QUOTE_START -->
-> "AI will not replace humans, but humans who use AI will replace humans who don't."
+> "The best way to predict the future is to invent it."
 >
-> *— Unknown*
+> *— Alan Kay*
 <!-- DYNAMIC_QUOTE_END -->
 
 <br/>
 
 <!-- LAST_UPDATED_START -->
-📅 *Last updated: August 27, 2026 at 07:25:32*
+📅 *Last updated: August 28, 2026 at 09:40:31*
 <!-- LAST_UPDATED_END -->
 
 </div>
