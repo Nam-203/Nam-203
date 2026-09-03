@@ -349,15 +349,15 @@ A collection of AI prototypes focused on:
 <div align="center">
 
 <!-- DYNAMIC_QUOTE_START -->
-> "Make it simple, but significant."
+> "Simplicity is the ultimate sophistication."
 >
-> *— Don Draper*
+> *— Leonardo da Vinci*
 <!-- DYNAMIC_QUOTE_END -->
 
 <br/>
 
 <!-- LAST_UPDATED_START -->
-📅 *Last updated: September 02, 2026 at 03:00:17*
+📅 *Last updated: September 03, 2026 at 03:02:11*
 <!-- LAST_UPDATED_END -->
 
 </div>
