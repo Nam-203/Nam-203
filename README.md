@@ -349,15 +349,15 @@ A collection of AI prototypes focused on:
 <div align="center">
 
 <!-- DYNAMIC_QUOTE_START -->
-> "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."
+> "Design is not just what it looks like and feels like. Design is how it works."
 >
-> *— Martin Fowler*
+> *— Steve Jobs*
 <!-- DYNAMIC_QUOTE_END -->
 
 <br/>
 
 <!-- LAST_UPDATED_START -->
-📅 *Last updated: September 06, 2026 at 03:03:25*
+📅 *Last updated: September 07, 2026 at 03:00:57*
 <!-- LAST_UPDATED_END -->
 
 </div>
