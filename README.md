@@ -349,15 +349,15 @@ A collection of AI prototypes focused on:
 <div align="center">
 
 <!-- DYNAMIC_QUOTE_START -->
-> "Design is not just what it looks like and feels like. Design is how it works."
+> "Talk is cheap. Show me the code."
 >
-> *— Steve Jobs*
+> *— Linus Torvalds*
 <!-- DYNAMIC_QUOTE_END -->
 
 <br/>
 
 <!-- LAST_UPDATED_START -->
-📅 *Last updated: September 13, 2026 at 03:18:28*
+📅 *Last updated: September 14, 2026 at 03:30:01*
 <!-- LAST_UPDATED_END -->
 
 </div>
