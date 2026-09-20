@@ -349,7 +349,7 @@ A collection of AI prototypes focused on:
 <div align="center">
 
 <!-- DYNAMIC_QUOTE_START -->
-> "Design is not just what it looks like and feels like. Design is how it works."
+> "The only way to do great work is to love what you do."
 >
 > *— Steve Jobs*
 <!-- DYNAMIC_QUOTE_END -->
@@ -357,7 +357,7 @@ A collection of AI prototypes focused on:
 <br/>
 
 <!-- LAST_UPDATED_START -->
-📅 *Last updated: September 19, 2026 at 03:15:07*
+📅 *Last updated: September 20, 2026 at 03:32:14*
 <!-- LAST_UPDATED_END -->
 
 </div>
