@@ -349,15 +349,15 @@ A collection of AI prototypes focused on:
 <div align="center">
 
 <!-- DYNAMIC_QUOTE_START -->
-> "Simplicity is the ultimate sophistication."
+> "The only way to do great work is to love what you do."
 >
-> *— Leonardo da Vinci*
+> *— Steve Jobs*
 <!-- DYNAMIC_QUOTE_END -->
 
 <br/>
 
 <!-- LAST_UPDATED_START -->
-📅 *Last updated: September 23, 2026 at 03:26:59*
+📅 *Last updated: September 24, 2026 at 03:16:28*
 <!-- LAST_UPDATED_END -->
 
 </div>
