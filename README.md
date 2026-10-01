@@ -349,15 +349,15 @@ A collection of AI prototypes focused on:
 <div align="center">
 
 <!-- DYNAMIC_QUOTE_START -->
-> "Software is a great combination between artistry and engineering."
+> "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."
 >
-> *— Bill Gates*
+> *— Martin Fowler*
 <!-- DYNAMIC_QUOTE_END -->
 
 <br/>
 
 <!-- LAST_UPDATED_START -->
-📅 *Last updated: September 30, 2026 at 04:06:18*
+📅 *Last updated: October 01, 2026 at 04:18:13*
 <!-- LAST_UPDATED_END -->
 
 </div>
