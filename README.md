@@ -349,15 +349,15 @@ A collection of AI prototypes focused on:
 <div align="center">
 
 <!-- DYNAMIC_QUOTE_START -->
-> "Make it simple, but significant."
+> "Design is not just what it looks like and feels like. Design is how it works."
 >
-> *— Don Draper*
+> *— Steve Jobs*
 <!-- DYNAMIC_QUOTE_END -->
 
 <br/>
 
 <!-- LAST_UPDATED_START -->
-📅 *Last updated: October 03, 2026 at 03:53:52*
+📅 *Last updated: October 04, 2026 at 04:26:42*
 <!-- LAST_UPDATED_END -->
 
 </div>
