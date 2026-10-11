@@ -349,15 +349,15 @@ A collection of AI prototypes focused on:
 <div align="center">
 
 <!-- DYNAMIC_QUOTE_START -->
-> "AI will not replace humans, but humans who use AI will replace humans who don't."
+> "Design is not just what it looks like and feels like. Design is how it works."
 >
-> *— Unknown*
+> *— Steve Jobs*
 <!-- DYNAMIC_QUOTE_END -->
 
 <br/>
 
 <!-- LAST_UPDATED_START -->
-📅 *Last updated: October 10, 2026 at 04:27:09*
+📅 *Last updated: October 11, 2026 at 04:09:27*
 <!-- LAST_UPDATED_END -->
 
 </div>
