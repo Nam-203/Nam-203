@@ -349,15 +349,15 @@ A collection of AI prototypes focused on:
 <div align="center">
 
 <!-- DYNAMIC_QUOTE_START -->
-> "Make it simple, but significant."
+> "The best way to predict the future is to invent it."
 >
-> *— Don Draper*
+> *— Alan Kay*
 <!-- DYNAMIC_QUOTE_END -->
 
 <br/>
 
 <!-- LAST_UPDATED_START -->
-📅 *Last updated: October 20, 2026 at 03:31:09*
+📅 *Last updated: October 21, 2026 at 03:24:55*
 <!-- LAST_UPDATED_END -->
 
 </div>
