@@ -349,15 +349,15 @@ A collection of AI prototypes focused on:
 <div align="center">
 
 <!-- DYNAMIC_QUOTE_START -->
-> "Design is not just what it looks like and feels like. Design is how it works."
+> "Software is a great combination between artistry and engineering."
 >
-> *— Steve Jobs*
+> *— Bill Gates*
 <!-- DYNAMIC_QUOTE_END -->
 
 <br/>
 
 <!-- LAST_UPDATED_START -->
-📅 *Last updated: October 28, 2026 at 04:07:10*
+📅 *Last updated: October 29, 2026 at 04:29:49*
 <!-- LAST_UPDATED_END -->
 
 </div>
