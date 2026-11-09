@@ -115,7 +115,7 @@ Currently working on:
 <tr>
 <td width="50%" valign="top">
 
-### 🏢 Raku Workspace
+### 🏢 Enterprise Collaboration & Workspace Platform
 
 Enterprise collaboration platform integrated with **Microsoft 365** and **Microsoft Teams**, supporting scheduling, internal communication, workflow management, attendance tracking, and organizational collaboration.
 
@@ -141,7 +141,7 @@ Enterprise collaboration platform integrated with **Microsoft 365** and **Micros
 
 <td width="50%" valign="top">
 
-### ⚙️ Workflow Automation (JET)
+### ⚙️ Enterprise Workflow Automation System
 
 Enterprise workflow automation platform for approval processes, role management, notifications, and Microsoft Teams integration.
 
