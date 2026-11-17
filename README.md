@@ -349,15 +349,15 @@ A collection of AI prototypes focused on:
 <div align="center">
 
 <!-- DYNAMIC_QUOTE_START -->
-> "Software is a great combination between artistry and engineering."
+> "The only way to do great work is to love what you do."
 >
-> *— Bill Gates*
+> *— Steve Jobs*
 <!-- DYNAMIC_QUOTE_END -->
 
 <br/>
 
 <!-- LAST_UPDATED_START -->
-📅 *Last updated: November 16, 2026 at 04:51:56*
+📅 *Last updated: November 17, 2026 at 06:40:17*
 <!-- LAST_UPDATED_END -->
 
 </div>
