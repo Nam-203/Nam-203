@@ -349,15 +349,15 @@ A collection of AI prototypes focused on:
 <div align="center">
 
 <!-- DYNAMIC_QUOTE_START -->
-> "The best way to predict the future is to invent it."
+> "Design is not just what it looks like and feels like. Design is how it works."
 >
-> *— Alan Kay*
+> *— Steve Jobs*
 <!-- DYNAMIC_QUOTE_END -->
 
 <br/>
 
 <!-- LAST_UPDATED_START -->
-📅 *Last updated: November 26, 2026 at 06:57:02*
+📅 *Last updated: November 27, 2026 at 06:50:34*
 <!-- LAST_UPDATED_END -->
 
 </div>
